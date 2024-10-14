@@ -4,6 +4,8 @@ I spent a long time searching for a universal code editor with all the necessary
 
 For me, the ability to fully customize the editor to suit my requirements was essential. I can’t say why I didn’t pay enough attention to Visual Studio Code before, but after getting to know it better, I realized that it offers incredible customization possibilities.
 
+![](./images/code.png)
+
 --- 
 
 - **settings.json** - this file contains the vast majority of settings related to the Visual Studio Code interface, as well as syntax highlighting settings for various languages. These settings will be gradually expanded and modified.
