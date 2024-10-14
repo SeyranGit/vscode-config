@@ -32,7 +32,6 @@
 	
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
-			// c
 			{
 				"scope": [
 					"source.c",
@@ -54,10 +53,6 @@
 					"fontStyle": ""
 				}
 			},
-		  // end-c
-
-
-			// python
 			{
 				"scope": [
 					"punctuation.definition.dict.begin.python",
@@ -73,8 +68,6 @@
 					"fontStyle": ""
 				}
 			},
-
-			// cpp
 			{
 				"scope": ["entity.name.function.preprocessor.cpp"],
 				"settings": {
@@ -82,8 +75,6 @@
 					"fontStyle": ""
 				}
 			},
-			// end-cpp
-
 			{
 				"scope": [
 					"constant.language.python", 
@@ -103,10 +94,6 @@
 					"fontStyle": ""
 				}
 			},
-			// end-python
-
-
-			// global
 			{
 				"scope": [
 					"storage.type",
@@ -279,7 +266,6 @@
 			}
 		]
 	},
-
   "workbench.colorCustomizations": {
 		"widget.border": "#454545",
     "sideBarActivityBarTop.border": "#1a1a1a",
