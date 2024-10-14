@@ -7,7 +7,7 @@
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.scrollbar.horizontalScrollbarSize": 0,
   "editor.stickyScroll.enabled": false,
-  "editor.folding": false, // breakpoints
+  "editor.folding": false,
   "editor.glyphMargin": false,
 	"editor.guides.indentation": false,
   "editor.unicodeHighlight.ambiguousCharacters": false,
@@ -27,7 +27,7 @@
 	"files.autoSave": "afterDelay",
   "breadcrumbs.enabled": false,
   "terminal.integrated.cursorStyleInactive": "block",
-  "C_Cpp.intelliSenseEngine": "default", // disable for clangd
+  "C_Cpp.intelliSenseEngine": "default",
   "explorer.confirmDelete": false,
 	
 	"editor.tokenColorCustomizations": {
