@@ -2,8 +2,7 @@
 	"editor.tabSize": 2,
   "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
   "editor.bracketPairColorization.enabled": false,
-  "editor.cursorStyle": "block",
-  "editor.minimap.enabled": false,
+	"editor.cursorStyle": "block",
   "editor.scrollbar.verticalScrollbarSize": 0,
   "editor.scrollbar.horizontalScrollbarSize": 0,
   "editor.stickyScroll.enabled": false,
@@ -29,6 +28,7 @@
   "terminal.integrated.cursorStyleInactive": "block",
   "C_Cpp.intelliSenseEngine": "default",
   "explorer.confirmDelete": false,
+	"editor.minimap.enabled": true,
 	
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
