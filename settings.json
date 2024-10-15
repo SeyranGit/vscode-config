@@ -28,7 +28,7 @@
   "terminal.integrated.cursorStyleInactive": "block",
   "C_Cpp.intelliSenseEngine": "default",
   "explorer.confirmDelete": false,
-	"editor.minimap.enabled": true,
+	"editor.minimap.enabled": false,
 	
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
